@@ -7,8 +7,7 @@ New here. A full-time Software Engineer, part-time bug whisperer, and occasional
 
 🛠️ **What I do:**
 - I tame ETL monsters with [Apache Airflow](https://airflow.apache.org/) (they scream less now)  
-- I sling code in **Node.js** and **Python** like a caffeinated wizard  
-- I Terraform cloud chaos into structured bliss on **AWS**  
+- I sling code in **Node.js** and **Python** like a caffeinated wizard
 - I once made **Kubernetes** behave — still not sure how  
 
 ---
